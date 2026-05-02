@@ -1,19 +1,64 @@
 {
   "metadata": {
-    "name": "Von's Magisk Repo",
+    "name": "Von's Personal Archive",
     "url": "https://raw.githubusercontent.com/vonxbailey/magisk-repo/main/modules.json"
   },
   "modules": [
     {
-      "id": "my_first_module",
-      "name": "My First Module",
+      "id": "google_animations",
+      "name": "Google Animations",
       "version": "1.0",
-      "versionCode": 1,
       "author": "Von",
-      "description": "Custom tweak for my Verge/Motorola.",
-      "zipUrl": "https://github.com/vonxbailey/magisk-repo/releases/download/v1.0/module.zip",
-      "changelog": "Initial release"
+      "description": "Google Animations Module",
+      "zipUrl": "https://github.com/vonxbailey/magisk-repo/raw/main/GoogleAnimations.zip"
+    },
+    {
+      "id": "ios_cutout",
+      "name": "iOS Cutout",
+      "version": "1.0",
+      "author": "Von",
+      "description": "iOS Cutout Module",
+      "zipUrl": "https://github.com/vonxbailey/magisk-repo/raw/main/IosCutout.zip"
+    },
+    {
+      "id": "miui_sounds",
+      "name": "MIUI Sounds",
+      "version": "1.0",
+      "author": "Von",
+      "description": "MIUI Sounds Module",
+      "zipUrl": "https://github.com/vonxbailey/magisk-repo/raw/main/Miui-Sounds.zip"
+    },
+    {
+      "id": "oneui7_sounds",
+      "name": "OneUI 7 Sounds",
+      "version": "1.0",
+      "author": "Von",
+      "description": "OneUI 7 Sounds Module",
+      "zipUrl": "https://github.com/vonxbailey/magisk-repo/raw/main/OneUI7Sounds.zip"
+    },
+    {
+      "id": "pill_mod",
+      "name": "Pill",
+      "version": "1.0",
+      "author": "Von",
+      "description": "Pill Module",
+      "zipUrl": "https://github.com/vonxbailey/magisk-repo/raw/main/Pill.zip"
+    },
+    {
+      "id": "speed_up",
+      "name": "Speed Up",
+      "version": "1.0",
+      "author": "Von",
+      "description": "Speed Up Module",
+      "zipUrl": "https://github.com/vonxbailey/magisk-repo/raw/main/SpeedUp.zip"
+    },
+    {
+      "id": "ios_sounds",
+      "name": "iOS Sounds",
+      "version": "1.0",
+      "author": "Von",
+      "description": "iOS Sounds Module",
+      "zipUrl": "https://github.com/vonxbailey/magisk-repo/raw/main/iOSSounds.zip"
     }
   ]
 }
-
