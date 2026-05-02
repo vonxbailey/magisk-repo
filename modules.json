@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "name": "Von's Magisk Repo",
+    "url": "https://raw.githubusercontent.com/vonxbailey/magisk-repo/main/modules.json"
+  },
+  "modules": [
+    {
+      "id": "my_first_module",
+      "name": "My First Module",
+      "version": "1.0",
+      "versionCode": 1,
+      "author": "Von",
+      "description": "Custom tweak for my Verge/Motorola.",
+      "zipUrl": "https://github.com/vonxbailey/magisk-repo/releases/download/v1.0/module.zip",
+      "changelog": "Initial release"
+    }
+  ]
+}
+
